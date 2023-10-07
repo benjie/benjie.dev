@@ -1,0 +1,16 @@
+{
+  "book": {
+    "title": "📞 Book a call",
+    "type": "page"
+  },
+  "prepaid": {
+    "title": "📞 Book a prepaid call",
+    "type": "page",
+    "display": "hidden"
+  },
+  "support": {
+    "title": "📞 Book a support call",
+    "type": "page",
+    "display": "hidden"
+  }
+}
